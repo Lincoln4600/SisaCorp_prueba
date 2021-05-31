@@ -1,4 +1,0 @@
-sdffd
-dasdfasd
-asda
-addslashes
